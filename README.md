@@ -12,7 +12,7 @@
 
 Research-Oriented Projects
 
-🧩 **[ARC-AGI with Reinforcement Learning]**: RL framework for solving ARC-AGI tasks using sequential actions.
+🧩 **ARC-AGI with Reinforcement Learning**: RL framework for solving ARC-AGI tasks using sequential actions.
 - **ARC (v1)**: Built a custom DSL and Wolpertinger Actor-Critic policy for large discrete spaces.
 - **ARC (v2)**: Integrated ViT-based state encoding and learnable action embeddings.
 - **ARC (v3)**: Designing a hierarchical world model-based agent for ARC-style reasoning.
