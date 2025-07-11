@@ -28,16 +28,17 @@ Association-Related Projects
 
 - 📉 **Momentum-Based Portfolio Optimization**: Developed a dynamic SGD optimizer tuned via Bayesian search to outperform static allocation methods and created a trading dashboard integrated with the optimizer to visualize portfolio trends and momentum patterns.
 
-- 📚 **Weather Derivatives Pricing**: Scraped historical weather data using SQL and implemented forecasting pipeline in Python. Trained an LSTM model to predict daily temperatures across multiple U.S. metropolitan areas and backtested American call options on temperature indices.
+- 🌡️ **Weather Derivatives Pricing**: Scraped historical weather data using SQL and implemented forecasting pipeline in Python. Trained an LSTM model to predict daily temperatures across multiple U.S. metropolitan areas and backtested American call options on temperature indices.
+
+- 🏆 **Customer Churn Predictor for BCG-X**: Placed 2nd in a hackathon challenge by developing a churn prediction pipeline using reinforcement learning, classical ML models, and GenAI-driven web scraping to enhance feature enrichment and customer behavior insights.
 
 
-Personal Projects
+Personal Projects *
 
 - 🏁 **Stock Trading with LSTM & RL**: Combined LSTM-forecasted returns with reinforcement learning for adaptive portfolio management.
 
 
-
-University-Related Projects
+University-Related Projects *
 
 - ⚡ **Hyperparameter Optimization Study**: Benchmarked Random Search, Grid Search, and Bayesian Optimization on k-NN and logistic regression.
 
