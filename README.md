@@ -17,29 +17,23 @@ Research-Oriented Projects
 - **ARC (v2)**: Integrated ViT-based state encoding and learnable action embeddings.
 - **ARC (v3)**: Designing a hierarchical world model-based agent for ARC-style reasoning.
 
-💧 **Drop-Stochastic Gradient Descent**: Developed a PyTorch optimizer that updates a random subset of parameters per iteration, improving convergence in sparse domains.
-
 🌍 **RL World Models Benchmark**: Compared performance of JEPA-style vs. encoder–decoder world models on reinforcement learning environments.
 
 
-Association Related Projects
+Association-Related Projects
+
+🔢 **Digit Recognition with CNNs**: Built and trained a Convolutional Neural Network on the MNIST dataset.
 
 📊 **Bankruptcy Prediction Platform**: Led team to build ML pipeline with XGBoost and Random Forests using financial ratios and macroeconomic indicators.
 
-🧠 **JEPA for World Modeling**: Researched Joint Embedding Predictive Architectures to simulate forward planning in RL environments.
+📉 **Momentum-Based Portfolio Optimization**: Developed a dynamic SGD optimizer tuned via Bayesian search to outperform static allocation methods and created a trading dashboard integrated with the optimizer to visualize portfolio trends and momentum patterns.
 
-📉 **Momentum-Based Portfolio Optimization**: Developed a dynamic SGD optimizer tuned via Bayesian search to outperform static allocation methods.
+📚 **Weather Derivatives Pricing**: Scraped historical weather data using SQL and implemented forecasting pipeline in Python. Trained an LSTM model to predict daily temperatures across multiple U.S. metropolitan areas and backtested American call options on temperature indices.
 
 
 Personal Projects
 
 🏁 **Stock Trading with LSTM & RL**: Combined LSTM-forecasted returns with reinforcement learning for adaptive portfolio management.
-
-📚 **Weather Derivatives Pricing**: Trained LSTM model to predict daily temperatures and backtested European call options.
-
-🎮 **TSP Optimization with MCMC**: Simulated traveling salesman path optimization using Metropolis-Hastings and simulated annealing.
-
-📷 **CNN for MNIST & Beyond**: Built and evaluated deep CNN architectures with PyTorch and TensorFlow for digit and object recognition.
 
 
 
