@@ -38,7 +38,7 @@ Personal Project
 - 🏁 **Long/Short Stock Trading Strategy**: Designed and implemented a long/short equity trading system using technical analysis indicators. Integrated trend-following signals and volatility-based position sizing to optimize entry/exit decisions.
 
 
-University-Related Projects *
+University-Related Projects
 
 - 🧩 **K-SAT Solver with Simulated Annealing**: Developed a customized K-SAT solver leveraging Simulated Annealing to explore heuristic approaches for solving NP-complete satisfiability problems.
 
