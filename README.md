@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hello World 👋
 
 <!--
-**LorenzoGiambra/lorenzogiambra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I'm Lorenzo (The Boss for friends)
+- I study CS & Econ @ Bocconi University
+- I'm an AI researcher @ Hephaestus Applied Artificial Intelligence, @ Bocconi Statistics and Data Science Student Association, @ TheHackLab Bocconi Students
+- I'm a Quant researcher @ Starting Finance Bocconi and @ Minerva Investment Management Society
+- I’m currently working on pure RL to solve the ARC-AGI benchmark. (trying to beat Grok 4 and o3-pro essentially)
+- How to reach me: giambralorenzo@gmail.com
+-->
 
-Here are some ideas to get you started:
+## Some Relevant Projects 📌 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!--
+
 -->
