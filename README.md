@@ -33,16 +33,18 @@ Association-Related Projects
 - 🏆 **Customer Churn Predictor for BCG-X**: Placed 2nd in a hackathon challenge by developing a churn prediction pipeline using reinforcement learning, classical ML models, and GenAI-driven web scraping to enhance feature enrichment and customer behavior insights.
 
 
-Personal Projects *
+Personal Project
 
-- 🏁 **Stock Trading with LSTM & RL**: Combined LSTM-forecasted returns with reinforcement learning for adaptive portfolio management.
+- 🏁 **Long/Short Stock Trading Strategy**: Designed and implemented a long/short equity trading system using technical analysis indicators. Integrated trend-following signals and volatility-based position sizing to optimize entry/exit decisions.
 
 
 University-Related Projects *
 
-- ⚡ **Hyperparameter Optimization Study**: Benchmarked Random Search, Grid Search, and Bayesian Optimization on k-NN and logistic regression.
+- 🧩 **K-SAT Solver with Simulated Annealing**: Developed a customized K-SAT solver leveraging Simulated Annealing to explore heuristic approaches for solving NP-complete satisfiability problems.
 
-- 📈 **Financial Time Series Forecasting**: Implemented and evaluated ARIMA, SARIMA, and GRU models to predict asset returns.
+- 📈 **Solow Growth Model Analysis**: Performed econometric analysis using Solow-growth regression models to evaluate key drivers of cross-country GDP growth.
+
+- 📊 **Human Lifespan Boundaries**: Authored a statistics research paper estimating the boundaries of human lifespan using multiple regression models and extreme value theory.
 
 
 
