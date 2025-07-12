@@ -24,7 +24,7 @@ Association-Related Projects
 
 - 📊 **Bankruptcy Prediction Platform**: Led team to build ML pipeline with XGBoost and Random Forests using financial ratios and macroeconomic indicators.
 
-- 📉 **Momentum-Based Portfolio Optimization**: Developed a dynamic SGD optimizer tuned via Bayesian search to outperform static allocation methods and created a trading dashboard integrated with the optimizer to visualize portfolio trends and momentum patterns.
+- 📉 **[Momentum-Based Portfolio Optimization](https://github.com/Lorenzo-Giambra/BSDSA-Stock-Prediction)**: Developed a dynamic SGD optimizer tuned via Bayesian search to outperform static allocation methods and created a trading dashboard integrated with the optimizer to visualize portfolio trends and momentum patterns.
 
 - 🌡️ **[Weather Derivatives Pricing](https://github.com/GianiRanzetti/Minerva---Weather-Derivatives)**: Scraped historical weather data using SQL and implemented forecasting pipeline in Python. Trained an LSTM model to predict daily temperatures across multiple U.S. metropolitan areas and backtested American call options on temperature indices.
 
