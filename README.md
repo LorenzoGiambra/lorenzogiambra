@@ -50,6 +50,8 @@ Hackathons
   
 - ⚙️ **[Data Analytics for Belimo @ StartHack St Gallen](https://github.com/Lorenzo-Giambra/Belimo-Project)**: Placed 2nd at StartHack by developing a data-driven MVP dashboard for Belimo, leveraging sensor and valve telemetry (billions of data values) to identify new revenue streams and optimize client-facing value delivery.
 
+## Quick Stats 🎯
 
+https://github-contributor-stats.vercel.app/api?username=LorenzoGiambra
 
 
