@@ -49,11 +49,3 @@ Hackathons
 - 🧠 **[Computer Vision Mole Detector @ AAAI 2025](https://github.com/AAAI-2025-Hackathon/team_44)**: Built a real-time skin mole classification pipeline using CNNs and OpenCV, additionally built a dashboard for users to experiment, aiming to assist early melanoma detection.
   
 - ⚙️ **[Data Analytics for Belimo @ StartHack St Gallen](https://github.com/Lorenzo-Giambra/Belimo-Project)**: Placed 2nd at StartHack by developing a data-driven MVP dashboard for Belimo, leveraging sensor and valve telemetry (billions of data values) to identify new revenue streams and optimize client-facing value delivery.
-
-## Quick Stats 🎯
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LorenzoGiambra&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-<!--
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LorenzoGiambra&layout=compact&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
--->
