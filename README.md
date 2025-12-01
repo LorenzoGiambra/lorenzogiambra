@@ -1,6 +1,6 @@
 ## Hello World 👋
 
-- I'm Lorenzo (The Boss for friends)
+- I'm Lorenzo
 - I study CS & Econ @ Bocconi University
 - I'm an AI researcher @ Hephaestus Applied Artificial Intelligence, @ Bocconi Statistics and Data Science Student Association, @ TheHackLab Bocconi Students
 - I'm a Quant researcher @ Starting Finance Bocconi and @ Minerva Investment Management Society
