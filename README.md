@@ -6,7 +6,8 @@ Welcome to my public project portfolio. I am a bachelor student in Computer Scie
 - 📍 Milan, Italy
 - 🎓 CS & Economics @ Bocconi University
 - 🔬 AI researcher @ Hephaestus Applied AI; Bocconi Statistics and Data Science Student Association; TheHackLab Bocconi Students
-- 📈 Quant researcher @ Minerva Investment Management Society; Starting Finance Bocconi.
+- 📈 Quant researcher @ Minerva Investment Management Society; Bocconi Students Quantitative Finance and Starting Finance Bocconi.
+- 🏛️ President of Bocconi Students Quantitative Finance & Bocconi Statistics and Data Science Student Association.
 - 📧 Contact: giambralorenzo@gmail.com
 
 ## Research Focus
