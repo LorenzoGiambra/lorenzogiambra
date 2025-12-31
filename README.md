@@ -1,51 +1,42 @@
-## Hello World 👋
+# Lorenzo Giambra
 
-- I'm Lorenzo
-- I study CS & Econ @ Bocconi University
-- I'm an AI researcher @ Hephaestus Applied Artificial Intelligence, @ Bocconi Statistics and Data Science Student Association, @ TheHackLab Bocconi Students
-- I'm a Quant researcher @ Starting Finance Bocconi and @ Minerva Investment Management Society
-- I’m currently working on pure RL to solve the ARC-AGI benchmark. (trying to beat Grok 4 and o3-pro essentially)
-- How to reach me: giambralorenzo@gmail.com
+Welcome to my public project portfolio. I am a dual-degree student in Computer Science & Economics at Bocconi University and an AI researcher at Hephaestus Applied Artificial Intelligence. My current focus is reinforcement learning for ARC-AGI style reasoning and world-model-based agents.
 
+## Quick Facts
+- 📍 Milan, Italy
+- 🎓 CS & Economics @ Bocconi University
+- 🔬 AI researcher @ Hephaestus Applied AI; Bocconi Statistics and Data Science Student Association; TheHackLab Bocconi Students
+- 📈 Quant researcher @ Starting Finance Bocconi; Minerva Investment Management Society
+- 📧 Contact: giambralorenzo@gmail.com
 
-## Some Relevant Projects 📌 
+## Research Focus
+- Reinforcement learning agents for ARC-AGI tasks, including DSL design, large-discrete-action actor-critic policies, and hierarchical world models.
+- Vision transformers and learnable action embeddings for state/action representation in sequential decision-making.
+- Comparative evaluations of JEPA-style vs. encoder–decoder world models in RL environments.
 
-Research-Oriented Projects
+## Highlighted Projects
+### Research-Oriented
+- 🧩 **ARC-AGI with Reinforcement Learning**: RL framework for solving ARC-AGI tasks via sequential actions.
+  - **ARC (v1)**: Custom DSL and Wolpertinger Actor-Critic policy for large discrete spaces.
+  - **ARC (v2)**: ViT-based state encoding with learnable action embeddings.
+  - **ARC (v3)**: Hierarchical world model-based agent for ARC-style reasoning.
+- 🌍 **RL World Models Benchmark**: Benchmark comparing JEPA-style vs. encoder–decoder world models on RL environments.
 
-- 🧩 **ARC-AGI with Reinforcement Learning**: RL framework for solving ARC-AGI tasks using sequential actions.
-  - **ARC (v1)**: Built a custom DSL and Wolpertinger Actor-Critic policy for large discrete spaces.
-  - **ARC (v2)**: Integrated ViT-based state encoding and learnable action embeddings.
-  - **ARC (v3)**: Designing a hierarchical world model-based agent for ARC-style reasoning.
+### Association & Team Projects
+- 📊 **Bankruptcy Prediction Platform**: Led development of an ML pipeline (XGBoost/Random Forests) using financial ratios and macroeconomic indicators.
+- 📉 **[Momentum-Based Portfolio Optimization](https://github.com/Lorenzo-Giambra/BSDSA-Stock-Prediction)**: Dynamic SGD optimizer tuned via Bayesian search; trading dashboard to visualize portfolio trends and momentum patterns.
+- 🌡️ **[Weather Derivatives Pricing](https://github.com/GianiRanzetti/Minerva---Weather-Derivatives)**: SQL scraping of historical weather data, forecasting pipeline in Python, LSTM temperature prediction across U.S. metros, and backtesting American call options on temperature indices.
+- 🏆 **[Customer Churn Predictor for BCG-X](https://github.com/LorenzoGiambra/TheHackLab)**: 2nd place hackathon solution combining RL, classical ML, and GenAI-driven web scraping for feature enrichment and customer behavior insights.
 
-- 🌍 **RL World Models Benchmark**: Compared performance of JEPA-style vs. encoder–decoder world models on reinforcement learning environments.
+### Hackathons
+- 🧠 **[Computer Vision Mole Detector @ AAAI 2025](https://github.com/AAAI-2025-Hackathon/team_44)**: Real-time skin mole classification with CNNs/OpenCV plus an interactive experimentation dashboard to support early melanoma detection.
+- ⚙️ **[Data Analytics for Belimo @ StartHack St Gallen](https://github.com/Lorenzo-Giambra/Belimo-Project)**: 2nd place MVP dashboard leveraging sensor/valve telemetry (billions of data points) to identify revenue streams and optimize client value delivery.
 
+### Personal & University Projects
+- 🏁 **Long/Short Stock Trading Strategy**: Long/short equity trading system using technical indicators, trend-following signals, and volatility-based position sizing.
+- 🧩 **K-SAT Solver with Simulated Annealing**: Customized solver exploring heuristic approaches for NP-complete satisfiability problems.
+- 📈 **Solow Growth Model Analysis**: Econometric analysis using Solow-growth regression models to assess GDP drivers across countries.
+- 📊 **Human Lifespan Boundaries**: Statistical research paper estimating human lifespan boundaries using multiple regression and extreme value theory.
 
-Association-Related Projects
-
-- 📊 **Bankruptcy Prediction Platform**: Led team to build ML pipeline with XGBoost and Random Forests using financial ratios and macroeconomic indicators.
-
-- 📉 **[Momentum-Based Portfolio Optimization](https://github.com/Lorenzo-Giambra/BSDSA-Stock-Prediction)**: Developed a dynamic SGD optimizer tuned via Bayesian search to outperform static allocation methods and created a trading dashboard integrated with the optimizer to visualize portfolio trends and momentum patterns.
-
-- 🌡️ **[Weather Derivatives Pricing](https://github.com/GianiRanzetti/Minerva---Weather-Derivatives)**: Scraped historical weather data using SQL and implemented forecasting pipeline in Python. Trained an LSTM model to predict daily temperatures across multiple U.S. metropolitan areas and backtested American call options on temperature indices.
-
-- 🏆 **[Customer Churn Predictor for BCG-X](https://github.com/LorenzoGiambra/TheHackLab)**: Placed 2nd in a hackathon challenge by developing a churn prediction pipeline using reinforcement learning, classical ML models, and GenAI-driven web scraping to enhance feature enrichment and customer behavior insights.
-
-
-Personal Project
-
-- 🏁 **Long/Short Stock Trading Strategy**: Designed and implemented a long/short equity trading system using technical analysis indicators. Integrated trend-following signals and volatility-based position sizing to optimize entry/exit decisions.
-
-
-University-Related Projects
-
-- 🧩 **K-SAT Solver with Simulated Annealing**: Developed a customized K-SAT solver leveraging Simulated Annealing to explore heuristic approaches for solving NP-complete satisfiability problems.
-
-- 📈 **Solow Growth Model Analysis**: Performed econometric analysis using Solow-growth regression models to evaluate key drivers of cross-country GDP growth.
-
-- 📊 **Human Lifespan Boundaries**: Authored a statistics research paper estimating the boundaries of human lifespan using multiple regression models and extreme value theory.
-
-Hackathons
-
-- 🧠 **[Computer Vision Mole Detector @ AAAI 2025](https://github.com/AAAI-2025-Hackathon/team_44)**: Built a real-time skin mole classification pipeline using CNNs and OpenCV, additionally built a dashboard for users to experiment, aiming to assist early melanoma detection.
-  
-- ⚙️ **[Data Analytics for Belimo @ StartHack St Gallen](https://github.com/Lorenzo-Giambra/Belimo-Project)**: Placed 2nd at StartHack by developing a data-driven MVP dashboard for Belimo, leveraging sensor and valve telemetry (billions of data values) to identify new revenue streams and optimize client-facing value delivery.
+## Interests & Next Steps
+I am eager to collaborate on research that blends reinforcement learning, program synthesis, and world-model-driven reasoning for open-ended tasks. For collaboration or full project details, feel free to reach out by email.
