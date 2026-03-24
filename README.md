@@ -3,7 +3,8 @@
 Welcome to my public project portfolio. I am a bachelor student in Computer Science & Economics at Bocconi University and an AI researcher at Hephaestus Applied Artificial Intelligence. My current focus is reinforcement learning for ARC-AGI style reasoning and world-model-based agents.
 
 ## Quick Facts
-- 📍 Milan, Italy
+- 📍 Atlanta, USA
+- 🎓 CS @ Georgia Institute of Technology
 - 🎓 CS & Economics @ Bocconi University
 - 🔬 AI researcher @ Hephaestus Applied AI; Bocconi Statistics and Data Science Student Association; TheHackLab Bocconi Students
 - 📈 Quant researcher @ Minerva Investment Management Society; Bocconi Students Quantitative Finance and Starting Finance Bocconi.
